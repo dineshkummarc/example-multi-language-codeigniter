@@ -1,1 +1,1 @@
-# Sample Multy Language Codeigniter
+# Sample Multi Language Codeigniter
