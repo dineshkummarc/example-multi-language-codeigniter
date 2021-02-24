@@ -70,6 +70,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <select onchange="javascript:window.location.href='LanguageSwitcher/switchLang/'+this.value;">
 <option value="english" <?php if($this->session->userdata('site_lang') == 'english') echo 'selected="selected"'; ?>>English</option>
 <option value="indonesia" <?php if($this->session->userdata('site_lang') == 'indonesia') echo 'selected="selected"'; ?>>Indonesia</option>
+<option value="hindi" <?php if($this->session->userdata('site_lang') == 'hindi') echo 'selected="selected"'; ?>>hindi</option>
 </select>
 <p><?php echo $this->lang->line('menu_test')."<br />"; ?></p>
 
