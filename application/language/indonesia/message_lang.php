@@ -1,3 +1,3 @@
 <?php 
 
-$lang["menu_test"] = "Testing.........";
+$lang["menu_test"] = "Pengujian .........";
